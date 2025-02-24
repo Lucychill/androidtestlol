@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Two Activites</string>
+    <string name="button_one_text">Show activity two!</string>
+    <string name="activity_main_label">This is activity one</string>
+    <string name="activity_two_main_label">This is the second activity\n</string>
+    <string name="starting_score">0</string>
+    <string name="game_button">One up!</string>
+</resources>
