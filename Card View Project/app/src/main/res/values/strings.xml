@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_button_text">Show card view!</string>
+    <string name="card_title_text">London Bridge</string>
+    <string name="card_description_text">"This is Tower Bridge in London. A lot of people get it confused with London Bridge, which is not one bridge but refers to different bridges that have spanned the river Thames between the City of London and Southwark (pronounced SU-thark). The old London bridge that stood for over 600 years was pulled down in the 19th century and replaced with a much more modern one designed by John Rennie. This bridge was then sold to Robert McCulloch, who had it shipped to Arizona where it still stands.\n "</string>
+</resources>
